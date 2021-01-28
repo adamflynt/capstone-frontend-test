@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/capstone-frontend-test/static/css/main.bb19e2ee.chunk.css",
-    "main.js": "/capstone-frontend-test/static/js/main.df80932d.chunk.js",
-    "main.js.map": "/capstone-frontend-test/static/js/main.df80932d.chunk.js.map",
+    "main.js": "/capstone-frontend-test/static/js/main.e3187cf4.chunk.js",
+    "main.js.map": "/capstone-frontend-test/static/js/main.e3187cf4.chunk.js.map",
     "runtime-main.js": "/capstone-frontend-test/static/js/runtime-main.c2d6b260.js",
     "runtime-main.js.map": "/capstone-frontend-test/static/js/runtime-main.c2d6b260.js.map",
     "static/js/2.97d490cc.chunk.js": "/capstone-frontend-test/static/js/2.97d490cc.chunk.js",
@@ -10,12 +10,13 @@
     "index.html": "/capstone-frontend-test/index.html",
     "static/css/main.bb19e2ee.chunk.css.map": "/capstone-frontend-test/static/css/main.bb19e2ee.chunk.css.map",
     "static/js/2.97d490cc.chunk.js.LICENSE.txt": "/capstone-frontend-test/static/js/2.97d490cc.chunk.js.LICENSE.txt",
+    "static/media/background-movie-1.b73ec4a9.mp4": "/capstone-frontend-test/static/media/background-movie-1.b73ec4a9.mp4",
     "static/media/merit-banking-1.7fe623e1.png": "/capstone-frontend-test/static/media/merit-banking-1.7fe623e1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c2d6b260.js",
     "static/js/2.97d490cc.chunk.js",
     "static/css/main.bb19e2ee.chunk.css",
-    "static/js/main.df80932d.chunk.js"
+    "static/js/main.e3187cf4.chunk.js"
   ]
 }
